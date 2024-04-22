@@ -1,0 +1,17 @@
+{
+  "name": "node-assignment-sca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "output.html",
+  "scripts": {
+    "dev": "vite ", 
+    "build": "vite build",
+    "preview": "vite preview --port 3000"
+  },
+  "keywords": [],
+  "author": "nisha <zaibonisha@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.2.10"
+  }
+}
